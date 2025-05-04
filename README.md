@@ -1,10 +1,12 @@
-<h1 align="left">Hi there 👋</h1>
+<h1>
+  
+  ![ezgif-4bf12d8ba3c1f2](https://github.com/user-attachments/assets/ec544576-e4ae-4355-b7bd-6e3df54ce5fd) Hi there 
+  👋 </h1>
 
-###
 
-<p align="left">My name is Prakrit Acharya and I'm an aspiring Fullstack Web developer.</p>
+ <p align="left">My name is Prakrit Acharya and I'm an aspiring Fullstack Web developer.</p> 
+ 
 
-###
 
 <h2 align="left">About me</h2>
 
