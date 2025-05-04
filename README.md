@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prakrit Acharya and I'm a Web developer from Nepal</p>
+<p align="left">My name is Prakrit Acharya and I'm an aspiring Fullstack Web developer.</p>
 
 ###
 
