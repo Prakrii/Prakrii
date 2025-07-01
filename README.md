@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Welcome to my github profile<br>📚 I'm currently learning Mern and Node Js <br>🎯 Goals: Fullstack Web development <br>🎲 Fun fact:</p>
+<p align="left">✨ Welcome to my github profile<br>📚 I'm currently learning MERN and Python <br>🎯 Goals: Fullstack Web development <br>🎲 Fun fact:</p>
 
 ###
 
