@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Welcome to my github profile<br>📚 I'm currently learning MERN  <br>🎯 Goals: Fullstack Web development <br>🎲 Fun fact: the world is a CUBE </p>
+<p align="left">✨ Welcome to my github profile<br>📚 I'm currently learning MERN  <br>🎯 Goals: Fullstack Web development and more <br>🎲 Fun fact: the world is a CUBE </p>
 
 ###
 
